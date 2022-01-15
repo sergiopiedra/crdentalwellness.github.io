@@ -616,7 +616,7 @@ img{
 	color: #ffffff;
 	text-align:center;
 	border-radius:15px;
-	background-color:#333333;
+	background-color:#4c68ac;
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
 	-ms-transition: all 300ms ease;
@@ -626,7 +626,7 @@ img{
 
 .social-icon-one li a:hover{
 	color: #ffffff;
-	background-color:#4c68ac;
+	background-color:#333333;
 }
 
 .theme_color{
