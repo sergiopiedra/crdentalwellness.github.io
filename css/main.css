@@ -6494,3 +6494,7 @@ img{
 .contact-info-section .info-column:nth-child(3) .icon-box:before{
 	border-color:#f98f74;
 }
+.list{
+	list-style-type: circle;
+	margin-left: 50px;
+}
