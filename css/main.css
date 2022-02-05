@@ -5340,7 +5340,6 @@ img{
 
 .department-block .inner-box{
 	position:relative;
-	padding-left:300px;
 	min-height:340px;
 }
 
@@ -5348,7 +5347,6 @@ img{
 	position:absolute;
 	left:0px;
 	top:0px;
-	width:260px;
 	overflow:hidden;
 	border-radius:10px;
 	background-color:#4c68ac;
