@@ -5677,6 +5677,7 @@ img{
 	font-size:16px;
 	line-height:1.8em;
 	margin-bottom:20px;
+	text-align: justify;
 }
 
 .doctor-detail-section .info-column{
@@ -5766,7 +5767,7 @@ img{
 .doctor-detail-section .info-column .info-box .author-name{
 	position:relative;
 	color:#14193d;
-	font-size:18px;
+	font-size:22px;
 	font-weight:700;
 	font-family: 'Roboto', sans-serif;
 }
