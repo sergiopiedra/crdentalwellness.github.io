@@ -893,7 +893,7 @@
 
             });
 
-            // Trap keyboard focus inside of the modal, so the user does not accidentally tab outside of the modal
+            // Trap keyboard focus inside of the modal, so the user does not acciDentaly tab outside of the modal
             // (a.k.a. "escaping the modal")
             $D.on('focusin.fb', function(e) {
                 var instance = $.fancybox ? $.fancybox.getInstance() : null;
