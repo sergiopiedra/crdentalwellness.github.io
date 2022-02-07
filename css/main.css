@@ -4532,7 +4532,7 @@ img{
 	position:relative;
 	overflow:hidden;
 	text-align:center;
-	padding:200px 0px 150px;
+	padding:700px 0px 250px;
 	background-size:cover;
 }
 
@@ -5210,6 +5210,7 @@ img{
 .treatment-section{
 	position:relative;
 	padding-bottom:120px;
+	margin-top: 50px;
 }
 
 .treatment-section .treatment-tabs{
@@ -5299,7 +5300,7 @@ img{
 .treatment-section .content-column .inner-column{
 	position:relative;
 	padding-left:70px;
-	padding-top:90px;
+	padding-top:10px;
 }
 
 .treatment-section .content-column .text{
@@ -5339,7 +5340,6 @@ img{
 
 .department-block .inner-box{
 	position:relative;
-	padding-left:300px;
 	min-height:340px;
 }
 
@@ -5347,7 +5347,6 @@ img{
 	position:absolute;
 	left:0px;
 	top:0px;
-	width:260px;
 	overflow:hidden;
 	border-radius:10px;
 	background-color:#4c68ac;
@@ -5678,6 +5677,7 @@ img{
 	font-size:16px;
 	line-height:1.8em;
 	margin-bottom:20px;
+	text-align: justify;
 }
 
 .doctor-detail-section .info-column{
@@ -5767,7 +5767,7 @@ img{
 .doctor-detail-section .info-column .info-box .author-name{
 	position:relative;
 	color:#14193d;
-	font-size:18px;
+	font-size:22px;
 	font-weight:700;
 	font-family: 'Roboto', sans-serif;
 }

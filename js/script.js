@@ -250,8 +250,8 @@
 	if ($('.variable-text').length) {
 		
 		$('.variable-text').typeIt({
-			 strings: ["Medcare"],
-			 speed: 650,
+			 strings: ["CR DENTAL WELLNESS"],
+			 speed: 750,
 			 breakLines: true,
 			 loop:true,
 			 autoStart: true
