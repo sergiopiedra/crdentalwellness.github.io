@@ -1725,7 +1725,7 @@ img{
 	height: 100%;
 	max-height: 100%;
 	overflow-y: auto;
-	background: #ffffff;
+	background: rgba(47, 47, 47, 0.678);
 	padding: 0px 0px;
 	z-index: 5;
 	opacity: 0;
@@ -1757,7 +1757,7 @@ img{
 	width: 30px;
 	text-align: center;
 	font-size: 24px;
-	color: #000000;
+	color: #ff0000;
 	cursor: pointer;
 	z-index: 10;
 	-webkit-transition:all 0.5s ease;
@@ -1807,7 +1807,7 @@ img{
 	line-height: 24px;
 	padding: 14px 20px;
 	font-size: 15px;
-	color: #404040;
+	color: #ffffff;
 	font-weight:600;
 	text-transform: uppercase;
 	-webkit-transition:all 0.5s ease;
@@ -1831,7 +1831,7 @@ img{
 	text-align:center;
 	font-size:16px;
 	line-height:52px;
-	color:#404040;
+	color:#ffffff;
 	cursor:pointer;
 	z-index:5;
 }
