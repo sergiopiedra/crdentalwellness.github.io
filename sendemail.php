@@ -26,7 +26,7 @@ if ( $userName && $lastName && $senderEmail && $userPhone && $message) {
 
 else{
 	//Set Location After Unsuccesssfull Submission
-  	header('Location: index.html?message=Failed');	
+  	header('Location: index-es.html?message=Failed');	
 }
 
 ?>
