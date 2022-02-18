@@ -2429,7 +2429,7 @@
         activate : function () {
             var self = this;
 
-            // Deactivate all instances
+            // Deactivate All onstances
             $( '.fancybox-container' ).each(function () {
                 var instance = $(this).data( 'FancyBox' );
 
@@ -2798,7 +2798,7 @@
         },
 
 
-        // Close current or all instances
+        // Close current or All onstances
         // ==============================
 
         close : function ( all ) {

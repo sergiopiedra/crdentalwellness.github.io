@@ -6673,7 +6673,7 @@ $.widget( "ui.checkboxradio", [ $.ui.formResetMixin, {
 			group = $( this.form[ 0 ].elements ).filter( nameSelector );
 		} else {
 
-			// Not inside a form, check all inputs that also are not inside a form
+			// Not inside a form, check All onputs that also are not inside a form
 			group = $( nameSelector ).filter( function() {
 				return $( this ).form().length === 0;
 			} );
@@ -7319,7 +7319,7 @@ $.extend( Datepicker.prototype, {
 		return this.dpDiv;
 	},
 
-	/* Override the default settings for all instances of the date picker.
+	/* Override the default settings for All onstances of the date picker.
 	 * @param  settings  object - the new settings to use as defaults (anonymous object)
 	 * @return the manager object
 	 */
@@ -7652,7 +7652,7 @@ $.extend( Datepicker.prototype, {
 	 * @param  target  element - the target input field or division or span
 	 * @param  name	object - the new settings to update or
 	 *				string - the name of the setting to change or retrieve,
-	 *				when retrieving also "all" for all instance settings or
+	 *				when retrieving also "all" for All onstance settings or
 	 *				"defaults" for all global defaults
 	 * @param  value   any - the new value for the setting
 	 *				(omit if above is an object or to retrieve a value)

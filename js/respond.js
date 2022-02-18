@@ -291,7 +291,7 @@
 					translate( styles, thisRequest.href, thisRequest.media );
 					parsedSheets[ thisRequest.href ] = true;
 
-					// by wrapping recursive function call in setTimeout
+					// by wrapping recursive function cAll on setTimeout
 					// we prevent "Stack overflow" error in IE7
 					w.setTimeout(function(){ makeRequests(); },0);
 				} );
