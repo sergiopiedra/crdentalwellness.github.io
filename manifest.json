@@ -1,0 +1,8 @@
+{
+    "short_name": "COBS",
+    "name": "crdentalwellness",
+    "domain": "crdentalwellness.com",
+    "start_url": "https://crdentalwellness.com/",
+    "background_color": "#FFFFFF",
+    "display": "standalone"
+}
